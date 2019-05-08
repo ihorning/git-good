@@ -4,4 +4,6 @@ message = message+" World";
 
 message = message+"!";
 
-alert(message);
+if(true || false) {
+  alert(message);
+}
